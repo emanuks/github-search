@@ -1,6 +1,6 @@
 # GITHUB SEARCH
 React + TypeScript application.
-Github User and Repositories search tool.
+Github searching tool.
 
 ## To run the application:
 1. Install the dependencies
