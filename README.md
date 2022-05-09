@@ -1,5 +1,6 @@
 # GITHUB SEARCH
 React + TypeScript application.
+
 Github searching tool.
 
 ## To run the application:
